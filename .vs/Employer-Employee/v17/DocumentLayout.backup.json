@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\dto\\advance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\dto\\advance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\dto\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\dto\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250821101310_fifteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250821101310_fifteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\controllers\\advancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\controllers\\advancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250820091625_thirteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250820091625_thirteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250820093058_fourteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250820093058_fourteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250820091238_twelve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250820091238_twelve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\dto\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\dto\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250820061442_eleven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250820061442_eleven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250817050904_nine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250817050904_nine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250817053156_tenth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250817053156_tenth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\models\\advance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\models\\advance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\models\\employeemonthlywage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\models\\employeemonthlywage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250816163847_seventh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250816163847_seventh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250816164123_eight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250816164123_eight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250816160801_sixth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250816160801_sixth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250816154037_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250816154037_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\dto\\payrolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\dto\\payrolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250816135959_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250816135959_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250816144338_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250816144338_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250816142015_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250816142015_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250816135959_first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250816135959_first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|c:\\users\\mchennarao\\source\\repos\\employer-employee\\employer-employee\\migrations\\20250816141501_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1F7EC-4D1E-4EE6-BF2F-303C98AC5C67}|employer-employee\\consoleapp.csproj|solutionrelative:employer-employee\\migrations\\20250816141501_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Employer-Employee\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:44:19.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\DTO\\Attendance.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\DTO\\Attendance.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\DTO\\Attendance.cs",
+              "RelativeToolTip": "Employer-Employee\\DTO\\Attendance.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:46:23.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Program.cs",
+              "RelativeToolTip": "Employer-Employee\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAEwDcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:52:30.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Employer-Employee\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:43:55.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\Employee.cs",
+              "RelativeToolTip": "Employer-Employee\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:41:59.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\Employer.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Models\\Employer.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\Employer.cs",
+              "RelativeToolTip": "Employer-Employee\\Models\\Employer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:41:42.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Advance.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\DTO\\Advance.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\DTO\\Advance.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\DTO\\Advance.cs",
+              "RelativeToolTip": "Employer-Employee\\DTO\\Advance.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:06:59.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\Attendance.cs",
+              "RelativeToolTip": "Employer-Employee\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:42:42.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "salary.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\salary.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Models\\salary.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\salary.cs",
+              "RelativeToolTip": "Employer-Employee\\Models\\salary.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:42:55.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250821101310_fifteen.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250821101310_fifteen.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250821101310_fifteen.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250821101310_fifteen.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250821101310_fifteen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:13:11.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDTo.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\DTO\\EmployeeDTo.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\DTO\\EmployeeDTo.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\DTO\\EmployeeDTo.cs",
+              "RelativeToolTip": "Employer-Employee\\DTO\\EmployeeDTo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:05:59.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdvanceController.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Controllers\\AdvanceController.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Controllers\\AdvanceController.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Controllers\\AdvanceController.cs",
+              "RelativeToolTip": "Employer-Employee\\Controllers\\AdvanceController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:24:41.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250820091625_thirteen.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250820091625_thirteen.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250820091625_thirteen.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250820091625_thirteen.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250820091625_thirteen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:16:25.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250820093058_fourteen.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250820093058_fourteen.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250820093058_fourteen.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250820093058_fourteen.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250820093058_fourteen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:30:59.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250820091238_twelve.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250820091238_twelve.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250820091238_twelve.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250820091238_twelve.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250820091238_twelve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:12:39.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Employer-Employee\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:46:51.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\appsettings.json",
+              "RelativeDocumentMoniker": "Employer-Employee\\appsettings.json",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\appsettings.json",
+              "RelativeToolTip": "Employer-Employee\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T13:44:35.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Employer-Employee\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:11:41.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\DTO\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\DTO\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\DTO\\ReportGenerator.cs",
+              "RelativeToolTip": "Employer-Employee\\DTO\\ReportGenerator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T06:22:17.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250820061442_eleven.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250820061442_eleven.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250820061442_eleven.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250820061442_eleven.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250820061442_eleven.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:14:43.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250817050904_nine.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250817050904_nine.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250817050904_nine.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250817050904_nine.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250817050904_nine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:09:05.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250817053156_tenth.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250817053156_tenth.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250817053156_tenth.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250817053156_tenth.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250817053156_tenth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:31:56.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Advance.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\Advance.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Models\\Advance.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\Advance.cs",
+              "RelativeToolTip": "Employer-Employee\\Models\\Advance.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:43:09.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeMonthlyWage.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\EmployeeMonthlyWage.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Models\\EmployeeMonthlyWage.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Models\\EmployeeMonthlyWage.cs",
+              "RelativeToolTip": "Employer-Employee\\Models\\EmployeeMonthlyWage.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:38:24.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250816163847_seventh.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816163847_seventh.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250816163847_seventh.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816163847_seventh.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250816163847_seventh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:38:47.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250816164123_eight.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816164123_eight.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250816164123_eight.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816164123_eight.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250816164123_eight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:41:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250816160801_sixth.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816160801_sixth.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250816160801_sixth.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816160801_sixth.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250816160801_sixth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:08:01.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250816154037_fifth.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816154037_fifth.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250816154037_fifth.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816154037_fifth.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250816154037_fifth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:40:37.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PayrollDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\DTO\\PayrollDTO.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\DTO\\PayrollDTO.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\DTO\\PayrollDTO.cs",
+              "RelativeToolTip": "Employer-Employee\\DTO\\PayrollDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:07:15.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250816135959_first.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816135959_first.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250816135959_first.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816135959_first.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250816135959_first.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:59:59.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250816144338_fourth.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816144338_fourth.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250816144338_fourth.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816144338_fourth.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250816144338_fourth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:43:38.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250816142015_third.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816142015_third.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250816142015_third.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816142015_third.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250816142015_third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:20:15.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250816135959_first.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816135959_first.Designer.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250816135959_first.Designer.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816135959_first.Designer.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250816135959_first.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:20:02.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250816141501_second.cs",
+              "DocumentMoniker": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816141501_second.cs",
+              "RelativeDocumentMoniker": "Employer-Employee\\Migrations\\20250816141501_second.cs",
+              "ToolTip": "C:\\Users\\mchennarao\\source\\repos\\Employer-Employee\\Employer-Employee\\Migrations\\20250816141501_second.cs",
+              "RelativeToolTip": "Employer-Employee\\Migrations\\20250816141501_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:15:02.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
